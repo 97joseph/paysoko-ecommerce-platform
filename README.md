@@ -1,4 +1,4 @@
-# image designs
+# Paysoko Website
 ![Screenshot (6)](https://github.com/user-attachments/assets/7e3f7ac2-2ebb-4937-bd0a-287f86b25c73)
 
 
@@ -34,9 +34,9 @@ The project has been dockerized for ease of setup and deployment. It includes a 
 - Deployed to DigitalOcean with SSH as the authorization method.
 
 ### Optional Features
-- User authentication.
-- Payment processing.
-- Additional enhancements to improve the application.
+- User authentication-Implemented User and Admin Sessions Authentication
+- Payment processing - Missing 
+- Additional enhancements to improve the application- Created printable order receipts and  admin together with user dashboards
 
 ---
 
