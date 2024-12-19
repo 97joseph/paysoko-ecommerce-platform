@@ -73,12 +73,6 @@ This project is an e-commerce platform with features tailored for user, guest, a
 
 ---
 
-### Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
 
 
 
