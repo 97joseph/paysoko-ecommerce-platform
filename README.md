@@ -38,7 +38,49 @@ The project has been dockerized for ease of setup and deployment. It includes a 
 - Payment processing - Missing 
 - Additional enhancements to improve the application- Created printable order receipts and  admin together with user dashboards
 
+
+# E-Commerce System Features
+
+## Overview
+This project is an e-commerce platform with features tailored for user, guest, and admin roles. Below is a detailed list of the features implemented.
+
 ---
+
+### Key Features
+
+- **User, Guest, and Admin Sessions**
+  - Users and admins can browse, add items to their cart, and complete checkout.
+  - Guests can only view products without adding them to a cart or checking out.
+
+- **User Authentication**
+  - Secure login and registration functionality for new system users.
+
+- **Shopping Cart and Checkout**
+  - Users can select multiple items, add them to the cart, and proceed to checkout.
+  - Automatic PDF receipt generation upon successful checkout.
+
+- **Product Management**
+  - Product categories and catalogs are seeded into the system for testing and demonstration.
+  - Admins can add or delete products and categories through the admin dashboard.
+
+- **Dashboards**
+  - **Admin Dashboard**: Provides reports, product management, and category management tools.
+  - **User Dashboard**: Allows users to view their profiles and track their orders.
+
+- **Pre-Seeded Test Users**
+  - Two roles (Admin and User) are pre-seeded for testing purposes.
+  - Credentials can be found in the `DatabaseSeeder.php` file.
+
+---
+
+### Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd <repository-folder>
+
+
 
 ## How to Run the Application Locally
 
