@@ -50,7 +50,7 @@ This project is an e-commerce platform with features tailored for user, guest, a
 
 - **User, Guest, and Admin Sessions**
   - Users and admins can browse, add items to their cart, and complete checkout.
-  - Guests can only view products without adding them to a cart or checking out.
+  - Guests can only view products without add them to a cart but have to sign up to be able to check out.
 
 - **User Authentication**
   - Secure login and registration functionality for new system users.
