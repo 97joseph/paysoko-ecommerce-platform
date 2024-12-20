@@ -57,7 +57,7 @@ This project is an e-commerce platform with features tailored for user, guest, a
 
 - **Shopping Cart and Checkout**
   - Users can select multiple items, add them to the cart, and proceed to checkout.
-  - Automatic PDF receipt generation upon successful checkout.Sample receipt at generate-receipts folder in the project
+  - Automatic PDF receipt generation upon successful checkout.Sample receipt at **Generated-Receipts** folder in the project
 
 - **Product Management**
   - Product categories and catalogs are seeded into the system for testing and demonstration.
